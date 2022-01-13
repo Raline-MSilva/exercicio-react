@@ -5,9 +5,13 @@ import './index.css';
 
 ReactDOM.render(
   <div>
-    <Card titulo="Card1" conteudo="Frutas"></Card>
-    <Card titulo="Card2" conteudo="Verduras"></Card>
-    <Card titulo="Card3" conteudo="Legumes"></Card>
+    <Card titulo="Frutas" conteudo="As frutas são alimentos ricos em nutrientes e substâncias que contribuem com a saúde."></Card>
+    
+    <Card titulo="Verduras" conteudo="As verduras são tipos de plantas em forma de folhas e flores que são comestíveis."></Card>
+
+    <Card titulo="Legumes" conteudo="É o nome genérico que se dá a frutos, caules, raízes e sementes usados na alimentação."></Card>
+
+   
   </div>
   
 ,
