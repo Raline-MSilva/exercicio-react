@@ -4,7 +4,8 @@ border: 3px #000;
 border-radius: 10px;
 background-color: hotpink;
 overflow: hidden;
-width: 500px;
+width: 300px;
+display: inline-block;
 }
 
 .Titulo{
