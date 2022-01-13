@@ -1,0 +1,24 @@
+.Card{
+margin: 25px;
+border: 3px #000;
+border-radius: 10px;
+background-color: hotpink;
+overflow: hidden;
+width: 500px;
+}
+
+.Titulo{
+    color: bisque;
+    font-family: Georgia;
+    padding: 10px 0px;
+    background-color: blueviolet;
+
+}
+
+.Conteudo{
+    color: #000;
+    padding: 10px 0px;
+    font-family: monospace;
+    background-color: goldenrod;
+
+}
